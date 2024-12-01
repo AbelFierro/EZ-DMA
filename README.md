@@ -8,10 +8,14 @@ Se genero un app que monitorea en tiempo real el estado emocional de los partici
 
 Librerias necesarias: tkinter-selenium-time-pyautogui-os-boto3-io-collections-threading 
 
-1. Generar las credenciales de AWS REKOGNITION para que se puedan acceder a través de Boto3 (libreria de python).
+__1.__ Generar las credenciales de AWS REKOGNITION para que se puedan acceder a través de Boto3 (libreria de python).
 
-2. Ejecutar por terminal el script EZoom.py
+__2.__ Ejecutar por terminal el script EZoom.py
 
-   --> 2.1 Completar el primer label con el link del Zoom. 
-   --> 2.2 Completar el segundo label con el número de participantes aburridos para que emita una alerta (Umbral) por defecto 2.
-   --> 2.3 Hacer click en "Iniciar Zoom" para ingresar a la reunión. Tener en cuenta que una vez que se abra la pantalla de zoom, usted no debe intervenir en la ejecución ya que la app hace la navegación en forma automática.
+   __--> 2.1__ Completar el primer label con el link del Zoom. 
+
+   
+   __--> 2.2__ Completar el segundo label con el número de participantes aburridos para que emita una alerta (Umbral) por defecto 2.
+
+   
+   __--> 2.3__ Hacer click en "Iniciar Zoom" para ingresar a la reunión. Tener en cuenta que una vez que se abra la pantalla de zoom, usted no debe intervenir en la ejecución ya que la app hace la navegación en forma automática.
