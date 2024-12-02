@@ -1,4 +1,4 @@
-# Trabajo Práctico Final. Emphatic Zoom
+# Trabajo Práctico Final. Empathic Zoom
 
 # Grupo 2 - Santesteban/Sincosky/Fierro
 
